@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#main{
+	background-color:#f5f5f5;
+	width:90%;
+	height:70%;
+	padding:15px;
+}
+#Testimonial{
+	border: 2px solid black;
+	padding:30px;
+	display:flex;
+	justify-content:space-around;
+	margin-bottom:10px;
+}
+#Author{
+	font-style:italic;
+	text-align:right;
+}
